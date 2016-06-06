@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Lab2
-//
-//  Created by Imac on 06.06.16.
-//  Copyright © 2016 Imac. All rights reserved.
-//
 
 #include <iostream>
 #include <string>
